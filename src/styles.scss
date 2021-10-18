@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("./app/core/nav/nav.component.scss");
+@import url("./app/core/footer/footer.component.scss");
+@import url("./app/@pages/home/home/home.component.scss");
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap');
+
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
